@@ -1,0 +1,41 @@
+{
+  "page": 2,
+  "per_page": 3,
+  "total": 9,
+  "total_pages": 3,
+  "data": [
+    {
+      "Title": "Galactic Frontier",
+      "Year": "2022",
+      "Rated": "PG-13",
+      "Released": "2022-05-10",
+      "Runtime": "140 min",
+      "Genre": "Sci-Fi, Adventure",
+      "Director": "Marta Rivera",
+      "Writer": "Carlos Reyes, Anya Taylor",
+      "Actors": "Ryan Gosling, Zendaya, Oscar Isaac"
+    },
+    {
+      "Title": "The Final Note",
+      "Year": "2019",
+      "Rated": "PG",
+      "Released": "2019-09-09",
+      "Runtime": "105 min",
+      "Genre": "Drama, Music",
+      "Director": "Liam O'Brien",
+      "Writer": "Sarah Hamilton",
+      "Actors": "Taron Egerton, Lucy Boynton, Richard Madden"
+    },
+    {
+      "Title": "Under the Shadows",
+      "Year": "2020",
+      "Rated": "R",
+      "Released": "2020-12-01",
+      "Runtime": "118 min",
+      "Genre": "Horror, Thriller",
+      "Director": "Mina Khalil",
+      "Writer": "Ahmad Omar, Louise Blanc",
+      "Actors": "Anya Taylor-Joy, Bill Skarsgård, Toni Collette"
+    }
+  ]
+}
